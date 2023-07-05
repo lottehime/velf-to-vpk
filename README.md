@@ -1,4 +1,4 @@
-# velf-to-vpk
+# VELFtoVPK
 Bash a Vita velf into a vpk.
 
 ##
